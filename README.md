@@ -41,13 +41,9 @@ This is a Socila Media Application for Android, here you can add stories, post s
   <img src="https://user-images.githubusercontent.com/98186477/187093697-11fe1beb-815e-4fce-a5cd-5a576b26868e.jpg" width="200" height="400"   />
 </p>
 
-**Add Friends:-**
+**Profile:-**
 
-<p align="center">
-  <img src="![187093712-c89b30b9-93ed-4980-9fc2-14d9116ee19b](https://github.com/Aksharsai44/ReachMe-app/assets/126596345/34d5f3af-d9b6-4e69-845f-140e854cca4c)
-" width="200" height="400"   />
-  
-</p>
+![187093712-c89b30b9-93ed-4980-9fc2-14d9116ee19b](https://github.com/Aksharsai44/ReachMe-app/assets/126596345/34d5f3af-d9b6-4e69-845f-140e854cca4c)
 
 
 
