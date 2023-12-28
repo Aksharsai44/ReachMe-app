@@ -43,9 +43,9 @@ This is a Socila Media Application for Android, here you can add stories, post s
 
 **Profile:-**
 
-![187093712-c89b30b9-93ed-4980-9fc2-14d9116ee19b](https://github.com/Aksharsai44/ReachMe-app/assets/126596345/34d5f3af-d9b6-4e69-845f-140e854cca4c)
 
 
+![WhatsApp Image 2023-12-28 at 16 13 26_01bd25f8](https://github.com/Aksharsai44/ReachMe-app/assets/126596345/e6f4d125-6af0-4539-9b3d-e13b201fe023)
 
 
 
